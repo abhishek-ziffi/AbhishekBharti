@@ -332,13 +332,13 @@ Hi guys! This hair tutorial is a superrrr easy one. It's my favorite way to spic
     },
     {
       "category_name": "Makeup",
-      "category_id": 22,
+      "category_id": 12,
       "category_data": [
         {
           "id": 1201,
-          "name": "Basics(le)",
-          "image": "http://abhishekbharti.in/beautify/images/category/makeup.jpg",
-          "description": "Thisisdescription1",
+          "name": "Basics (le)",
+          "image": "http://abhishekbharti.in/beautify/images/category/makeup1.jpg",
+          "description": "",
           "videos": [
             {
               "name": "My Eyebrow Philosophy & Routine",
@@ -607,12 +607,64 @@ Thin or uneven lips can be easily corrected with make-up, painful lip augmentati
     },
     {
       "category_name": "Nails",
-      "category_id": 33,
+      "category_id": 13,
       "category_data": [
         {
-          "id": 1201,
+          "id": 1301,
+          "name": "Nail Art for valentines Day",
+          "image": "http://abhishekbharti.in/beautify/images/category/nail1.jpg",
+          "description": "",
+          "videos": [
+            {
+              "name": "Nail Art for Valentine's Day: The Ultimate Guide!",
+              "description": "In today's video I'll be sharing 10 different Valentine's Day nail art designs for you to choose from! You can try them all out or mix and match a few to create your perfect Valentine's mani. ",
+              "url_id": "IcCRXZK6qIU"
+            },
+            {
+              "name": "Kissed Nail Art",
+              "description": "Ahh I'm loving this design! I can't stop looking at my nails :)
+I hope you enjoying these sweet little kisses too. A lot of people asked me if I stamped them on... nope! Here I share with you how I made them easily!
+
+PRODUCTS USED:
+ChinaGlaze Something Sweet
+ChinaGlaze Salsa
+OPI Shorts Story",
+              "url_id": "6wXl6XDUkuk"
+            },
+            {
+              "name": "Heart Leopard Nail Art",
+              "description": "COLORS USED:
+- China Glaze Sunset Sail
+- China Galze Salsa
+- OPI Chocolate Moose",
+              "url_id": "VZy2mTie3jc"
+            },
+            {
+              "name": "Easy Sweetheart Plaid Nail Art",
+              "description": "i've been wearing this design for the past couple of years and it's definitely one of my absolute favorites! it's just so sweet and girly! it's easy to create, so i hope you will try it out :)",
+              "url_id": "YWysNnnvFe8"
+            },
+            {
+              "name": "Rainbow Heart Leopard Nails",
+              "description": "Nail Art for Valentine's Day!
+A cute, cartoon inspired design called Rainbow Heart Leopard Nails :)",
+              "url_id": "hhFkkW2DdwQ"
+            },
+            {
+              "name": "Cute Cupcake Nail Art",
+              "description": "pink friday by opi
+pink striper
+alpine snow by opi
+
+ENJOY :D",
+              "url_id": "HocHWFbv-VI"
+            }
+          ]
+        },
+        {
+          "id": 1302,
           "name": "Basics(le)",
-          "image": "http://abhishekbharti.in/beautify/images/category/nail.jpg",
+          "image": "http://abhishekbharti.in/beautify/images/category/nail2.jpg",
           "description": "Thisisdescription1",
           "videos": [
             {
@@ -626,18 +678,147 @@ Thin or uneven lips can be easily corrected with make-up, painful lip augmentati
     },
     {
       "category_name": "Skin Care",
-      "category_id": 44,
+      "category_id": 14,
       "category_data": [
         {
-          "id": 1201,
-          "name": "Basics(le)",
-          "image": "http://abhishekbharti.in/beautify/images/category/skincare.jpg",
-          "description": "Thisisdescription1",
+          "id": 1401,
+          "name": "Skin Care (mp)",
+          "image": "http://abhishekbharti.in/beautify/images/category/skincare1.jpg",
+          "description": "",
           "videos": [
             {
-              "name": "RomanticCurlyBunUpdo",
-              "description": "Descriptioncomeshere",
-              "url_id": "xk3YItQqp1A"
+              "name": "Skinside Out: Dry Skin Solutions",
+              "description": "In our first video, I learn how to heal dry skin with healthy fats like those found in olive oil, avocado, sesame seeds and salmon. Anisa Noor, my go-to holistic healer, is not only a boss when it comes to skin health but she throws down in the kitchen! Yes girl. xoxo",
+              "url_id": "Lxu7grYUjNc"
+            },
+            {
+              "name": "BEAUTY BASIC / Skin Care : Evening Routine",
+              "description": "My night time skincare routine :) Good luck beautiful!
+Happiness = Beauty",
+              "url_id": "yur1OmPly3k"
+            },
+            {
+              "name": "DIY Rice Scrub + Mask",
+              "description": "Happy Lunar New Year cuties! Get your rice ready and have fun with this DIY scrub and mask :) All these beauty tips were taught to me by my Mother, so now I'm passing this knowledge to you. Love you and good luck! - Mish
+
+Em cosmetics is now shipping internationally!
+http://www.emcosmetics.com/",
+              "url_id": "LAWK61HQHWA"
+            },
+            {
+              "name": "1 Minute DIY : Olive Oil + Honey Mask",
+              "description": "Hello my bunnies! 1 Minute DIY is a New series I'm starting for this year. Simple, bite sized tutorials. Don't worry, I'll still have my beauty, makeup, fashion and other tutorials :) 
+
+This olive oil and honey mask will NOT make your skin oily. Extra Olive Oil has been used for centuries to hydrate the skin, and it doesn't clog pores! Amazing huh? :) It's the golden miracle alongside with Honey. Mix the two together, and you'll have a beautiful natural skin hydrating mask that works well for those who have sensitive to normal skin :) Those with dry, oily, normal, combination skin, you can use this mask :) I recommend twice a week!
+
+Please don't forget to subscribe :D
+
+Sorry no voiceover in this video, I caught the cold that everyone's been getting so it sounds a lil groggly. I'm going to drink some Manuka honey tea, it helps when you're sick :) All natural! :D ",
+              "url_id": "Erm7Q3XlJtA"
+            },
+            {
+              "name": "Anti-Acne Honey Cinnamon Mask!",
+              "description": "If you're allergic to cinnamon, don't use this mask. If your skin is very very sensitive, try a patch test on the arm and don't use if you get any irritation or use 1 TEASPOON instead of 1 TABLESPOON of Cinnamon. Make sure you avoid getting anything on your eyes! All you need is honey and cinnamon! I recommend getting New Zealand Manuka honey because it has natural anti-biotic properties. ",
+              "url_id": "og7KL3Pm3Oo"
+            },
+            {
+              "name": "DIY Wine Mask",
+              "description": "This wine mask is one of my favorite DIY masks at the moment. It is a wonderful luxurious treat for your skin. If your skin is in need of hydration and repair due to the cold weather, this is the perfect mask for your face. If you are under the drinking age, please ask your parents or guardian about making this mask. I don't want to get in trouble! 
+
+PLEASE don't waste wine. If you have a bottle and you're okay with sparing 2 tablespoons of it, add it to yogurt to create this incredible mask.",
+              "url_id": "JCcre1kSBdk"
+            },
+            {
+              "name": "DIY Cotton Mask",
+              "description": "This is a very popular DIY beauty tip in Asia. Soaking your face with cotton mask will help nourish and condition your skin. I recommend doing this on a daily basis at night. After I shower and brush my teeth, I wear this mask for around 10 minutes while watching tv, checking emails or just relaxing. Dedicated a few extra minutes to your skin and you'll see how amazing it's going to look :) Instead of spending money on pre-soaked cotton masks, I'm showing you guys 3 different options. 1) using a pre mixed skin conditioner. 2) I show you how to make your own skin conditioner solution using moisturizer and water. 3) I show how you can use am instant mask in lotion like SK-II. Regardless, the first 2 options are not only easy but friendly on the wallet. This tutorial is affordable and easy. ",
+              "url_id": "RTP2t582ZHw"
+            },
+            {
+              "name": "Green Goodness",
+              "description": "I'm going to be sharing my favorite homemade beauty recipes for summer. Today, it's all about my replenishing and redness reducing Avocado Tea Mask! It's refreshing and easy to make! Check it out! Stay tuned for the Mulan makeup tutorial tomorrow! :D
+",
+              "url_id": "4Lr7yVfgcfg"
+            },
+            {
+              "name": "Layering Skin Care : Night Time",
+              "description": "Layering skin care products is very popular in Asia. A poll showed how women in Asia would use about an average of 9 skin care products on a daily basis! So skin care is taken very very seriously. I'm not using 9 products here, but I am layering my products. This is my favorite method and it's best for night time. Daytime, you want to use a technique that's requires lighter layers. I also recommend sleeping on your back, because not only is it better for your body, but it's better for your face. Enjoy!",
+              "url_id": "leoxb6KIQ58"
+            },
+            {
+              "name": "Make Your Own Pore Strips",
+              "description": "♡ READ ME ♡ I love using Pore Strips. To me the best part is looking at the nasty stuff it picks up. Mine always look like a forest of junk! Ewwwwww! Haha. The downside to using Pore Strips is that it can cost quite a lot if you use it regularly. So I wanted to show you how to make your own Pore Strips using 2 ingredients! Unflavored Gelatin and Milk! Pop it in the microwave for 10 seconds! Just watch the video and you'll see how fun and easy it is to make this! It's better than store bought Pore Strips because it doesn't hurt your skin because it's not like glue, it's natural. Also, it reaches all the hard to reach areas on your face. Try it! ",
+              "url_id": "-bjOB4zS0uE"
+            },
+            {
+              "name": "Dry Skin?",
+              "description": "It will be updated more with casual videos. Your view count and subscription is a contribution to Charity. Beauty in the heart is the message we need to spread!",
+              "url_id": "zAF9PPhnatU"
+            },
+            {
+              "name": "Rice Water For Healthy Skin",
+              "description": "This tutorial is going to show you how to make use of your delicious rice for healthy glowing skin. Let's salvage and make use of everything. You can use rice water as a toner or a cotton mask. I'll show you how to do it, it's super simple.",
+              "url_id": "ByP2YvqfnnI"
+            },
+            {
+              "name": "Egg Mask Facial",
+              "description": "Egg white and yolk mask. Perfect for oily skin. It helps brighten and tighten the skin.
+
+The reason why the egg yolks are so good and rich for your skin is because they are loaded with Vitamin A! Protein and nutrients!",
+              "url_id": "Rk4xdYt3ick"
+            },
+            {
+              "name": "DIY: Tomato Scrub",
+              "description": "This tutorial will show you how to take a tomato and turn it into an invigorating scrub.",
+              "url_id": "nKrUEtk01Js"
+            },
+            {
+              "name": "Aspirin Mask",
+              "description": "Aspirin mask is not something new, but many people are not aware of this amazing mask and the potential it has for clearing you skin!
+
+This tutorial, you will need a bottle or a box of standard Aspirin.
+
+Aspirin is made out of salicylic acid also known as Beta Hydroxy Acid, BHA for short.
+
+This is a great spot treatment for a blemish. Please click on the link, there is too much information for me to type on here.",
+              "url_id": "Q-Hksg8B4cQ"
+            },
+            {
+              "name": "Kitty Litter Facial Mask : Deep Cleansing",
+              "description": "Yep Kitty Litter, but DON'T FREAK OUT! Read or watch the video before you make any assumptions.
+
+This mask is perfect for oily, dirty, large pores skin! If you need to detoxify your skin, this is the best mask to use, and you can make it right at home! Use this once every 2 weeks. You should deep cleanse your face once every 2 weeks to remove impurities.",
+              "url_id": "9-x6hCI9X0g"
+            },
+            {
+              "name": "Healthy Food = Beautiful Skin",
+              "description": "Beauty is not all about makeup. Your health reflects your outer appearance. You are what you eat, from your head to your feet. 
+
+So we are going to cover the basics of beauty. Inner Health, something that concealer cannot even fix.
+
+I think the most asked question I get from people is 'How can I get beautiful skin?'.
+
+If you want beautiful skin, start from the inside and out.
+
+Here are the best foods you can eat that is not only good for your health, but good for your skin. I cut out fast foods out of my life, and I can tell you it makes a difference in not only my complexion, but overall health and performance.",
+              "url_id": "ugSpT5UsY2E"
+            },
+            {
+              "name": "Toothbrush Skincare Treatment",
+              "description": "Toothbrush Skincare Treatment",
+              "url_id": "V61IJIE7sH4"
+            }
+          ]
+        },
+        {
+          "id": 1402,
+          "name": "Skin Care (mp)",
+          "image": "http://abhishekbharti.in/beautify/images/category/skincare2.jpg",
+          "description": "",
+          "videos": [
+            {
+              "name": "",
+              "description": "",
+              "url_id": ""
             }
           ]
         }
