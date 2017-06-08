@@ -11,15 +11,15 @@ cur.execute("select category.id As category_id, category.name as category_name, 
 # print cur.fetchone()
 
 
-list = []
+dicV = []
 for row in cur.fetchall():
 	# print row
 
-	videoObj = {
-	"url_id":row.get("video_url_id"),
-	"name":row.get("video_name"),
-	"description":row.get("video_description")
-	}
+	# videoObj = {
+	# "url_id":row.get("video_url_id"),
+	# "name":row.get("video_name"),
+	# "description":row.get("video_description")
+	# }
 
 	rowV = {
 	"category_id": row.get("category_id"),
@@ -28,15 +28,30 @@ for row in cur.fetchall():
 	"category_data_name": row.get("category_data_name"),
 	"category_data_image": row.get("category_data_image"),
 	"category_data_description": row.get("category_data_description"),
-	"videos": videoObj
+	"video_url_id":row.get("video_url_id"),
+	"video_name":row.get("video_name"),
+	"video_description":row.get("video_description")
 	}
 
-	list.append(rowV)
+	dicV.append(rowV)
 
-	print rowV
+# dicCD = []
+# videos = []
+# catDataId = -1
+# for item in dicV:
 
-print "----------------"
-print list
+# 	if item.get("category_data_id") in dicCD.values()
+
+# 	categoryData = {
+# 	"id": item.get("category_data_id"),
+# 	"name": item.get("category_data_name"),
+# 	"image": item.get("category_data_image"),
+# 	"description": item.get("category_data_description")
+# 	"videos":??
+# 	}
+
+print dicV
+
 
 
 db.close()
