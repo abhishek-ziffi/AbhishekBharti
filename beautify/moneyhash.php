@@ -4,7 +4,7 @@ $key=$_POST["key"];
 
 //$saltSuffix=$_POST["saltSuffix"];
 
-$salt="teEkuVg2""; // this is done for security purpose. This file is on public repository.
+$salt="teEkuVg2"; // this is done for security purpose. This file is on public repository.
 
 $txnId=$_POST["txnid"];
 $amount=$_POST["amount"];
