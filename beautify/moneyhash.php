@@ -6,6 +6,8 @@ $saltSuffix=$_POST["saltSuffix"];
 
 $salt="SJuBJ".$saltSuffix; // this is done for security purpose. This file is on public repository.
 
+print_r($_POST);
+print_r($_POST["saltSuffix"]);
 print_r($salt);
 exit();
 
