@@ -1,6 +1,8 @@
 <?php
 
 $key=$_POST["key"];
+print_r($_POST);
+exit();
 
 $saltSuffix=$_POST["saltSuffix"];
 
