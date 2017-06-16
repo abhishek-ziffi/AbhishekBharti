@@ -1,12 +1,13 @@
 <?php
 
 $key=$_POST["key"];
-print_r($_POST);
-exit()
 
 $saltSuffix=$_POST["saltSuffix"];
 
 $salt="SJuBJ".$saltSuffix; // this is done for security purpose. This file is on public repository.
+
+print_r($salt);
+exit();
 
 $txnId=$_POST["txnid"];
 $amount=$_POST["amount"];
