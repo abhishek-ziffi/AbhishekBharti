@@ -2,14 +2,9 @@
 
 $key=$_POST["key"];
 
-$saltSuffix=$_POST["saltSuffix"];
+//$saltSuffix=$_POST["saltSuffix"];
 
-$salt="SJuBJ" . $saltSuffix; // this is done for security purpose. This file is on public repository.
-
-print_r($_POST);
-print_r($_POST["saltSuffix"] . " aa " . $saltSuffix);
-print_r($salt);
-exit();
+$salt="SJuBJZb64L"; // this is done for security purpose. This file is on public repository.
 
 $txnId=$_POST["txnid"];
 $amount=$_POST["amount"];
