@@ -2,7 +2,7 @@
 
 $key=$_POST["key"];
 
-$salt="SJuBJZb64L";
+$salt="teEkuVg2";
 
 $txnId=$_POST["txnid"];
 $amount=$_POST["amount"];
