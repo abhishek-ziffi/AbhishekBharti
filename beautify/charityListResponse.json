@@ -1,1 +1,38 @@
-{"charity_list":[{"id":1,"name":"Charity 1","image":"http://abhishekbharti.in/beautify/images/category/hair2.jpg","description":"This is small description","date":"19th June, 2017","big_image":"http://abhishekbharti.in/beautify/images/category/hair2.jpg","detail_description":"This is bigger description","quote":"This is quote related to charity"},{"id":1,"name":"Charity 2","image":"http://abhishekbharti.in/beautify/images/category/makeup1.jpg","description":"This is small description","date":"19th June, 2017","big_image":"http://abhishekbharti.in/beautify/images/category/hair2.jpg","detail_description":"This is bigger description","quote":"This is quote related to charity"},{"id":1,"name":"Charity 3","image":"http://abhishekbharti.in/beautify/images/category/nail1.jpg","description":"This is small description","date":"19th June, 2017","big_image":"http://abhishekbharti.in/beautify/images/category/hair2.jpg","detail_description":"This is bigger description","quote":"This is quote related to charity"}]}
+{
+  "charity_list": [
+    {
+      "id": 1,
+      "name": "Charity is serving to God",
+      "image": "http://abhishekbharti.in/beautify/images/category/charity1.jpg",
+      "description": "For attractive lips, speak words of kindness.
+For lovely eyes, seek out the good in people.
+For a slim figure, share your food with the hungry.
+For beautiful hair, let a child run his fingers through it once a day.
+For poise, walk with the knowledge you’ll never walk alone",
+      "date": "19th June, 2017",
+      "big_image": "http://abhishekbharti.in/beautify/images/category/hair2.jpg",
+      "detail_description": "This is bigger description",
+      "quote": "This is quote related to charity"
+    },
+    {
+      "id": 1,
+      "name": "Charity 2",
+      "image": "http://abhishekbharti.in/beautify/images/category/food1.jpg",
+      "description": "We Indians love to eat as well as feed others. For this very reason, every time we have a function or a party, we ensure that there’s plenty of food around. After all the eating, drinking, and merriment, we often end up with a lot of leftover food. While some of it can be packed off to friends and relatives, most of it goes to waste. Often, after a big party at home is over, we wonder what to do with the food.",
+      "date": "19th June, 2017",
+      "big_image": "http://abhishekbharti.in/beautify/images/category/food2.jpg",
+      "detail_description": "Feeding India is a not-for-profit social enterprise which collects excess food from individuals, weddings, restaurants, corporate offices, etc. and gives it to people who really need it. It has a 24/7 helpline that people can call on when they want to donate food. It also has an app on Google Playstore. It operates in Bengaluru, Bhubaneshwar, Chandigarh, Chennai, Faridabad, Goa, Noida, Gurgaon, Hyderabad, Indore, Jaipur, Kolkata, Mumbai, Nagpur, Pune, and Solan. The organisation can be contacted on 098711 78810.",
+      "quote": "We rise by lifting others"
+    },
+    {
+      "id": 1,
+      "name": "Charity 3",
+      "image": "http://abhishekbharti.in/beautify/images/category/teach1.jpg",
+      "description": "India is a country with more than one billion people, and just one-third of them can read. Rapidly growing size of population, shortages of teachers, books, and basic facilities, and insufficient public funds to cover education costs are some of the nation’s toughest challenges. This is where Children in India are facing the basic challenges. According to a study, more than 30% of educational funds are allocated towards higher education, leaving the primary education in India in sway.",
+      "date": "15th July, 2017",
+      "big_image": "http://abhishekbharti.in/beautify/images/category/teach2.jpg",
+      "detail_description": "India is fourth among the top 10 nations with the highest numbers of out-of children in primary level. Furthermore, the rate of school drop-outs amongst students is very high. One of the main reasons behind this is poverty. When earning a livelihood and taking care of the members of the family becomes a primary matter of concern in one’s life, education stands a little or, very often, no chance of pursuance. For the underprivileged people in India, education is perceived as a high-priced luxury, and this negative outlook continues on with every new generation. \nA disproportionate number of total out-of-school children in India are girls. What denies equal opportunities of children are serious social issues that have arose out of caste, class and gender differences. The practice of child labour in India and resistance to sending girls to school in several parts of the country remain as genuine concerns. If the current trend continues, millions of underprivileged children will probably never set foot in a classroom. \nIndia’s growth relies on a well-educated and skilled workforce. Improving education is a critical area of investment. A shabby foundation in primary education can overturn the lives, careers and productivity of millions of its citizens. Already, a considerable proportion of the adult workforce in India is acutely under-equipped to be eligible for skilled and semi-skilled jobs. In order to build India as a consumer market of global standards, it is very important that every child reaps the benefits of quality education.",
+      "quote": "Desh padhega tabhi to desh aage badhega"
+    }
+  ]
+}
